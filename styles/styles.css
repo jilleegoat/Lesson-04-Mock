@@ -82,15 +82,12 @@ img {
   padding-bottom:1%;
 }
 .special-text {
-font-family: "sans";
+font-family: sans-serif;
 line-height: 1.6rem;
 color: rgba(53, 171, 183, 0.99);
 }
 .larger-blue-font {
   box-sizing: content-box;
-  position: inherit;
-  padding: 5px;
-  border: 5px;
   font-family: sans-serif;
   font-weight: bold;
   font-size: 22px;
@@ -110,9 +107,6 @@ color: rgba(53, 171, 183, 0.99);
 }
 .article-header {
   box-sizing: content-box;
-  position: inherit;
-  padding: 5px;
-  border: 5px;
   font-family: sans-serif;
   font-weight: bold;
   font-size: 18px;
